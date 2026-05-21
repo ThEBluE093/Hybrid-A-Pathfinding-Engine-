@@ -1,0 +1,6 @@
+./vscode
+__pycache__/
+*.pyc
+*.exe
+path_output.csv
+

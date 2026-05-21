@@ -1,0 +1,2 @@
+start: (0, liczba w nazwie pliku - 1)
+end: (liczba w nazwie pliku - 1, 0)
